@@ -1,11 +1,8 @@
-# Network Application
-Building various network protocol Applications such as HTTP, TCP, SMTP, Proxy Server and many more. 
-Goal: To understand what happens in the backend of this frequently used network applications.
+Single Thread HTTP Application
 
-THE HTTP APPLICATION
 - The single Threaded HTTP protocol. The web_server.py is a HTTP protocol script which acts a server and holds the Test_file.html. The port 6789 is where the http service is running and the 
   IPV4 address may be specified as wanted. when the script is run, with the right IP address and port number adding the html name in the url, the file is displayed in the web browser.
- The http protocol also displays the http headers and status code. * http1.1/200 ok - The http protocol works and the content(html file) is in the server.
+- The http protocol also displays the http headers and status code. * http1.1/200 ok - The http protocol works and the content(html file) is in the server.
                                                                    * http1.1/404 File Not Found- no content in the server
 * The main objective is to understand how the http protocol works, the http headers and contents
 
