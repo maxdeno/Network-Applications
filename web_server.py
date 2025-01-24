@@ -7,7 +7,7 @@ serverSocket = socket(AF_INET, SOCK_STREAM)
 
 # Prepare a server socket
 serverPort = 6789
-serverSocket.bind(("", serverPort))
+serverSocket.bind(("0.0.0.0", serverPort))
 serverSocket.listen(1)
 
 print("The server is ready to receive")
