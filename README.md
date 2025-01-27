@@ -16,3 +16,6 @@ Requirements
        
          http1.1/404 File Not Found status code
 ![Image](https://github.com/user-attachments/assets/df774331-7cfc-4fda-a56b-d6487cf38f43)
+
+
+copyright: ComputerNetworks: A Top Down Approach. Programming Assignments: Web Server Lab1
